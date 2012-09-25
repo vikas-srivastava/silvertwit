@@ -1,0 +1,15 @@
+{
+	"name": "silverstripe-australia/silvertwit",
+	"description": "A social networking platform in SilverStripe",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-australia", "silvertwit", "social-networking"],
+	"authors": [
+	{
+		"name": "Marcus Nyeholt"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "3.0.*"
+	}
+}
